@@ -12,7 +12,7 @@ body {
 }
 
 body,button,.form-control {
-	color: #606368;
+	color: #000000;
 	font-family: 'Open Sans', Helvetica, Arial, sans-serif; 
 	font-weight: 400;	
 }
@@ -58,10 +58,11 @@ p {
 
 .tm-site-title { 
 	border: 2px solid #888481;
-	color: #676362;
+	color: #686868;
 	display: inline-block;
 	font-size: 3rem; 
 	padding: 30px 40px;
+	background-color: black;
 }
 
 .tm-textbox {
